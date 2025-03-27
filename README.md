@@ -1,3 +1,5 @@
+antes de decir que el programa no funciona asegurate de que tu microfono capte sonidos por encima de 20KHz, a parte asegurate tambien de que el archivo de verdad contiene esas frecuencias de audio
+
 # AudioShift
 
 **AudioShift** es una herramienta de procesamiento de audio diseñada para desplazar frecuencias inaudibles a un rango audible. Esto permite a la gente escuchar sonidos que normalmente no podrían escuchar, como frecuencias ultrasónicas o infrasónicas.
