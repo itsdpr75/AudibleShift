@@ -1,6 +1,6 @@
 # AudioShift
 
-**AudioShift** es una herramienta de procesamiento de audio diseñada para desplazar frecuencias inaudibles a un rango audible. Esto permite a los usuarios escuchar sonidos que normalmente no podrían percibir, como frecuencias ultrasónicas o infrasónicas.
+**AudioShift** es una herramienta de procesamiento de audio diseñada para desplazar frecuencias inaudibles a un rango audible. Esto permite a la gente escuchar sonidos que normalmente no podrían escuchar, como frecuencias ultrasónicas o infrasónicas.
 
 ## Características
 
